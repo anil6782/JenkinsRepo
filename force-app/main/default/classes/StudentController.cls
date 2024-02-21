@@ -1,5 +1,6 @@
 public without sharing class StudentController {
    
+
     public static Integer getStudentRec() {
 
         System.debug([SELECT Id,Name,Email__c FROM Student__c].size());
@@ -8,3 +9,4 @@ public without sharing class StudentController {
 
  
 }
+

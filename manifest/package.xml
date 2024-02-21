@@ -2,17 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>StudentController</members>
-        <members>StudentControllerTest</members>
         <name>ApexClass</name>
     </types>
-    <!--types>
-        <members>Student__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>Email__c</members>
-        <members>Phone__c</members>
-        <name>CustomField</name>
-    </types-->
     <version>58.0</version>
 </Package>
